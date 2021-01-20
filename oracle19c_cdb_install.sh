@@ -251,6 +251,7 @@ if [ \$USER = "oracle" ];then
     fi
 fi
 EOF
+source /etc/profile
 fi
 
 ###unzip the install package and set response file
