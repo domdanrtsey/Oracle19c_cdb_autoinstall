@@ -5,7 +5,7 @@
 > 需要使用root用户执行(尽量安装纯净的OS环境)
 > 下载脚本：https://github.com/domdanrtsey/Oracle19c_cdb_autoinstall
 
-1. **请注意：**本脚本是`cdb`数据库的安装部署脚本，下面是`plsql`客户端工具的连接事例
+1. **请注意：**本脚是`cdb`数据库的安装部署脚本，下面是`plsql`客户端工具的连接事例
 
    ```shell
    普通用户登录：
